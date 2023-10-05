@@ -4,8 +4,8 @@ To build this project you will need [cmake](https://cmake.org/) (minimum version
 
 ```shell
 
-git clone https://github.com/AutoPilot2004/TIC-TAC-TOE.git
-cd TIC-TAC-TOE
+git clone https://github.com/AutoPilot2004/RTTT.git
+cd RTTT
 mkdir build
 cd build
 
